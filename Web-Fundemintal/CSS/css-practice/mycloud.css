@@ -1,9 +1,8 @@
 h1 {
     color:white;
+    padding: 10px;
     background-color: black;
     text-align: left;
-    text-decoration: none;
-    font-style: normal;
     font-weight: bold;
     font-family: cursive;
 }
@@ -11,8 +10,6 @@ h1 {
     color: rgb(20, 204, 236);
     background-color: black;
     text-align: left;
-    text-decoration: none;
-    font-style: normal;
     font-weight: bold;
     font-family: cursive;
 }
@@ -20,17 +17,15 @@ h2 {
     color: white;
     background-color: rgba(58, 3, 102, 0.671);
     text-align: center;
-    text-decoration: none;
     font-style: italic;
-    font-weight: normal;
     font-family: cursive;
+    font-weight: normal;
 }
 h3 {
     color: rgb(7, 7, 54);
     background-color: rgb(0, 204, 255);
     text-align: right;
     text-decoration: underline;
-    font-style: normal;
     font-weight: normal;
     font-family: cursive;
 }
