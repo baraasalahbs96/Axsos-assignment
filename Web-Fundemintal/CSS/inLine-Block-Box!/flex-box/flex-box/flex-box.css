@@ -1,6 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .container{
     width: 950px;
-    background-color: silver;
+    background-color: rgb(241, 241, 241);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -11,8 +16,6 @@
 .top-nav {
     height: 150px;
     background-color: green;
-    display: flex;
-    flex-direction: column;
     margin-bottom: 20px;
 }
 .side-nav {
@@ -47,7 +50,6 @@
     flex-direction: column;
 }
 .row {
-    /* TODO - what should go here? */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
